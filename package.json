@@ -1,6 +1,6 @@
 {
 	"name": "gulp-scripts",
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"description": "A gulp utility to have multiple gulpfile scripts in separate files or folders.",
 	"main": "index.js",
 	"scripts": {
