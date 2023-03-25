@@ -28,8 +28,9 @@ project/
 ## Installation
 
 Install this package with NPM and add it to your development dependencies.
+gulp-scripts is designed to work with gulp v4 or greater.
 
-`npm install --save-dev gulp-scripts`
+`npm install --save-dev gulp@4 gulp-scripts`
 
 ## Usage
 
