@@ -1,0 +1,15 @@
+{
+  "name": "gulp-scripts",
+  "version": "0.1.0",
+  "description": "A gulp utility to have multiple gulpfile scripts in separate files or folders.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "gulpfile"
+  ],
+  "author": "venomDev <venomdev@gmail.com> (https://venomdev.net/)",
+  "license": "MIT"
+}
