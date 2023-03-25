@@ -1,6 +1,6 @@
 {
 	"name": "gulp-scripts",
-	"version": "0.2.1",
+	"version": "0.2.2",
 	"description": "A gulp utility to have multiple gulpfile scripts in separate files or folders.",
 	"main": "index.js",
 	"scripts": {
@@ -22,7 +22,7 @@
 		"type": "git",
 		"url": "https://github.com/venomdev/gulp-scripts"
 	},
-	"devDependencies": {
+	"dependencies": {
 		"glob": "^9.3.2",
 		"gulp": "^4.0.2",
 		"sorted": "^0.1.1"
