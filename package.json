@@ -8,11 +8,21 @@
 	},
 	"keywords": [
 		"gulp",
-		"gulpfile"
+		"gulpfile",
+		"plugin",
+		"gulp-plugin",
+		"gulpplugin",
+		"build",
+		"tool"
 	],
 	"author": "venomDev <venomdev@gmail.com> (https://venomdev.net/)",
 	"license": "MIT",
-	"dependencies": {
+	"homepage": "https://github.com/venomdev/gulp-scripts#readme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/venomdev/gulp-scripts"
+	},
+	"devDependencies": {
 		"glob": "^9.3.2",
 		"gulp": "^4.0.2",
 		"sorted": "^0.1.1"
